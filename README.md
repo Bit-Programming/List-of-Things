@@ -1,2 +1,2 @@
 # List-of-Things
-A repository dedicated to listing things.
+A repository dedicated to listing a variety of topics.
