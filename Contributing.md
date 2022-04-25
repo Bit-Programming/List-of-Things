@@ -1,3 +1,3 @@
-# Please consult the following when contributing
+# Please consult the following when contributing to the List of Things
 
-### Alphabetically order the list
+#### Alphabetically order the list
